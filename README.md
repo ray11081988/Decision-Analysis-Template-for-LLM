@@ -1,4 +1,4 @@
-# YouNavi Prompt Templates
+# Decision Analysis Templatefor LLM 
 
 [YouNavi](https://younavi.me/) 是一款 AI 驱动的会议分析与决策辅助工具，帮助专业人士从会议记录和日常工作中提取深度洞察，做出更明智的决策。
 
