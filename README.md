@@ -1,4 +1,4 @@
-# Decision Analysis Template for LLM 
+# Decision Analysis Prompt for LLM 
 
 [YouNavi](https://younavi.me/) 是一款 AI 驱动的会议分析与决策辅助工具，帮助专业人士从会议记录和日常工作中提取深度洞察，做出更明智的决策。
 
@@ -21,7 +21,7 @@
 
 1. 浏览上方分类表，找到你感兴趣的场景
 2. 点击链接查看该分类下的所有提示词模板
-3. 选择合适的模板，在 YouNavi 中使用
+3. 选择合适的模板，在任意AI Chatbot/Agent产品（如ChatGPT、Gemini、Claude、Manus、OpenClaw、YouNavi）中使用
 
 ## 贡献
 
